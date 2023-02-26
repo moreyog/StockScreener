@@ -1,0 +1,3 @@
+# Project exclude paths
+/screener/target/
+/StockScreener.iml
